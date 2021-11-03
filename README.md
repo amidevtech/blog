@@ -1,5 +1,5 @@
-# blog
-amidev.tech blog
+# amidevtech blog 
+am I dev? - Technology blog
 
 
 ## EN
