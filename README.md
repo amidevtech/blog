@@ -1,0 +1,2 @@
+# blog
+amidev.tech blog
