@@ -4,11 +4,11 @@
 ## Mały wstęp
 Jak zapewne przypuszczasz, _maszyny do pisania_ są przodkami dzisiejszych _klawiatur_. Naturalnie funkcjonalność _klawiatur_ została dostosowana do naszych czasów jednak w porównaniu do _maszyn do pisania_ sam układ klawiszy nie zmienił się prawie wcale co można zaobserwować na zdjęciach poniżej:
 
-![](./5_lenovo_keyboard.tiff)
+![](./5_lenovo_keyboard.jpg)
 
 [Klawiatura](https://en.wikipedia.org/wiki/Computer_keyboard#/media/File:LenovoKeyboard.jpg)
 
-![](./5_typewriter.tiff)
+![](./5_typewriter.jpg)
 
 [Maszyna do pisania](https://en.wikipedia.org/wiki/File:Typewriter_%22Adler%22.jpg)
 
@@ -18,19 +18,19 @@ _Nowoczesne klawiatury_ a raczej _klawiatury_ gdyż tak będę nazywał te elekt
 Pierwszą rzeczą jaka rzuca się w oczy gdy patrzę na _klawiaturę_ jest fakt, iż nie ma oba kolumn. Każdy kolejny wiersz poczynając od górnego jest przesunięty w prawo, co nazywa się **przesunięciem wierszowym**. Kiedyś usłyszałem takie wyjaśnienie. To przesunięcie w prawo jest powodowane długością klawisza _Shift_. Muszę przyznać, iż to całkiem ciekawe wyjaśnienie jednak oczywiście jest ono nieprawdziwe. Drugim, uraczył mnie mój kolega, twierdząc, iż jest to podyktowane _ergonomią_, niestety nie był w stanie wyjaśnić jak to ma na nią wpłynąć. Podsumował swą wypowiedz następującymi słowami „Musi być jakiś powód, moim zdaniem ergonomia.” Prawdę mówiąc nie dostrzegam niczego ergonomicznego w tym przesunięciu co więcej istnieje dużo badań potwierdzających iż to nie ma z tym nic wspólnego.
 Zatem? Dlaczego _klawiatury_ mają **przesunięcie wierszowe**? Pozwól, że wyjaśnię poprzez umieszczenie raz jeszcze zdjęcia _maszyny do pisania_.
 
-![](./5_typewriter.tiff)
+![](./5_typewriter.jpg)
 
 [Maszyna do pisania](https://en.wikipedia.org/wiki/File:Typewriter_%22Adler%22.jpg)
 
 Zdjęcie to wybrałem celowo aby ukazać występującą w nim zależność. _Maszyny do pisania_ zostały wyposażone w mechanizm gdzie pojedyncze naciśnięcie klawisz, uruchamia tak zwany _młoteczek_ uderzający w kartkę papieru. Najważniejsza część urządzenia umieszczona jest w górnej części maszyny, gdzie wszystkie litery zostały ułożone jedna za drugą w jednym rzędzie, co prezentuje następujące zdjęcie:
 
-![](./5_typewiter_mechanism.tiff)
+![](./5_typewiter_mechanism.jpg)
 
 [Mechanizm maszyny do pisania](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Typewriter.ogv/440px--Typewriter.ogv.jpg)
 
 Części odpowiedzialne za drukowanie liter ułożone są w jednym rzędzie i uderzają papier gdy są aktywowane. Klawisze są znacznie szersze i z tej przyczyny nie jest możliwym aby umieścić je analogicznie w jednym rzędzie. Podzielono zatem litery na trzy rzędy i zastosowane różne długości nóżek łączących same klawisze z głównym mechanizmem. Najpopularniejsze _maszyny do pisania_ mają przesunięcie w kolejnych wierszach o 1/4 długości klawisza, gdyż mamy 4 rzędy klawiszy. Rząd numeryczny jak i trzy rzędy z literami. Dzięki takiemu zabiegowi konstrukcja _maszyn do pisania_ jest znacznie prostsza, każda nóżka jest w lini prostej połączona z przyciskiem. Idee przedstawiam poniżej.
 
-![](DraggedImage-4.tiff)
+![](./5_typewriter_keys_draft.jpg)
 
 Oczywistym jest, iż całość jest nieco bardziej skomplikowana gdy kolejne guziki umiejscowimy obok siebie, kolejne klawisze przykryły by nóżki poprzedzających je klawiszy. Obrazek powyżej prezentuje jedynie idee. Zatem przyczyna szukaną przez nas nie jest decyzja projektowa ułatwiająca pisanie - przyczyną jest ograniczenie technologiczne _maszyn do pisania_, co zostało rozpropagowane na _klawiatury_, które w gruncie rzeczy nie mają tych ograniczeń i mogłby by z powodzeniem być zaprojektowane bez nich.
  
