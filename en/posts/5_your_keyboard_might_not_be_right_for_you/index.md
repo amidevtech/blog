@@ -4,11 +4,11 @@ Anybody of you have ever thought about reasons behind keyboard design? I mean, w
 ## Some introduction
 As you may suspect, _typewrites_ are ancestors of our modern _keyboards_. Naturally, our _keyboards_ are adjusted for new functionalities but when we compare plain layouts of modern _keyboard_ with that one from _typewriter_ it looks almost the same. Let’s look on pictures below:
 
-![](./5_lenovo_keyboard.tiff)
+![](./5_lenovo_keyboard.jpg)
 
 [Keyboard](https://en.wikipedia.org/wiki/Computer_keyboard#/media/File:LenovoKeyboard.jpg)
 
-![](./5_typewriter.tiff)
+![](./5_typewriter.jpg)
 
 [Typewriter](https://en.wikipedia.org/wiki/File:Typewriter_%22Adler%22.jpg)
 
@@ -18,19 +18,19 @@ _Modern keyboards_ or _keyboards_ that I will be naming this electrical devices 
 First thing you see on keyboards is that each keyboard does not have columns. Each row is shifted slightly into the right, that’s so-called **row staggering**.  Once I heard that this shift into right is because of the length of _Shift_ key.  Quite nice explanation which is naturally not true. Second explanation which give my friend is that it’s _ergonomic_, but unfortunately, he can’t explain why. He sums it with words, “It’s by some reason, I think it’s ergonomic.” I do not see anything ergo in that shift, furthermore there are tons of research that confirms lack of connection to that. 
 So, why? Why keyboards are **row staggered**.  Lets me explain by posting once again picture of typewriter from above. 
 
-![](./5_typewriter.tiff)
+![](./5_typewriter.jpg)
 
 [Typewriter](https://en.wikipedia.org/wiki/File:Typewriter_%22Adler%22.jpg)
 
 I choose it in purpose as it show in perfect way this effect. _Typewriters_ were equipped within a mechanism where when you press a key it runs a special, so-called _hammer_ which hits a piece of paper. Core of this device was placed in upper part and each of letter was place one by one, as you can se on next image:
 
-![](./5_typewiter_mechanism.tiff)
+![](./5_typewiter_mechanism.jpg)
 
 [Typewriter mechanism](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Typewriter.ogv/440px--Typewriter.ogv.jpg)
 
 Parts responsible for printing are placed in a one row and when activated hits paper in the middle. Keys are much wider, and simply it’s not possible to place them accordingly in one row. Keys are split into three rows with different length of leg which connect them with core mechanism. This shift in most popular _typewrites_ is about 1/4 key length, as we have 4 rows. Number row and three rows with letters. Thanks to this approach, _typewriter_ mechanism is much more simpler. It’s looks like on the drawing below.
 
-![](./5_typewriter_keys_draft.tiff)
+![](./5_typewriter_keys_draft.jpg)
 
 Naturally is gets more complicated when the second column would be placed, connections between key and printing hammer would be below the second key. Picture above just show idea. It’s not ergonomic approach or any kind of design which should improve our typing — reason is just _typewriter's_ limitation which was propagated to _keyboards_ which in fact do not suffer for that kind of limitation and could be designed without it. 
 
