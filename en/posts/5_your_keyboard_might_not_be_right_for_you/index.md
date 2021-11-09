@@ -1,4 +1,4 @@
-# 5 — Why your standard keyboard might not be right for you.
+# Why your standard keyboard might not be right for you.
 Anybody of you have ever thought about reasons behind keyboard design? I mean, why keyboard looks like in that particular way, why each row is shifted into right. The second question is why letters are placed in that order, not a different one. What makes that designers made that particular design choices, not different one. This brings us to today blog post topic.
 
 ## Some introduction
