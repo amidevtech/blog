@@ -1,7 +1,7 @@
 # Klawiatury Ortolinearne
 Ten wpis stanowi pierwszy z serii traktujących o ergonomicznych mechanicznych klawiaturach. Skupię się w nim na takim tworze jak **klawiatury ortolinearne** (ang.: Ortholinear keyboards). Przyjrzymy się ich budowie na przykładzie najpopularniejszego modelu oraz zestawimy ją, porównując ze standardowym układem.
  
-# Czy jest klawiatura ortolinearna
+# Czym jest klawiatura ortolinearna
 Jak zapewne, wiecie standardowa klawiatura qwerty charakteryzuje się _przesunięciem wierszowym_, co pokrótce oznacza, że każdy kolejny wiersz klawiatury jest przesunięty nieco w prawo. To rozwiązanie jest efektem ograniczeń minionych czasów i tak naprawdę nie jest już potrzebna w żaden sposób nowoczesnych klawiaturach. Mój poprzedni artykuł [Dlaczego Twoja standardowa klawiatura Qwerty może nie być odpowiednia dla Ciebie ](https://www.amidev.tech/pl/dlaczego-twoja-standardowa-klawiatura-qwerty-moze-nie-byc-odpowiednia-dla-ciebie/ "Dlaczego Twoja standardowa klawiatura Qwerty może nie być odpowiednia dla Ciebie")szczegółowo opisuje powód wprowadzenia tego rozwiązania oraz jego bezcelowość w dzisiejszych klawiaturach. 
 
 Skoro przesunięcie wierszowe nie jest potrzebne do działania klawiatury, kwestią czasu było pojawienie się modelu, który postanawia go usunąć. Naturalnie ze względu na ogromną popularność _QWERTY_ na układzie z _przesunięciem wierszowym_ klawiatury te nie są mainstreamowe, jednak moim zdaniem stanowią one pierwszy krok w kierunku **klawiatur ergonomicznych** eliminując jedna z 2 głównych cech standardowego układu _QWERTY_. 
