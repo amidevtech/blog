@@ -1,4 +1,4 @@
-# 6 - Klawiatury Ortolinearne
+# Klawiatury Ortolinearne
 Ten wpis stanowi pierwszy z serii traktujących o ergonomicznych mechanicznych klawiaturach. Skupię się w nim na takim tworze jak **klawiatury ortolinearne** (ang.: Ortholinear keyboards). Przyjrzymy się ich budowie na przykładzie najpopularniejszego modelu oraz zestawimy ją, porównując ze standardowym układem.
  
 # Czy jest klawiatura ortolinearna

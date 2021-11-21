@@ -1,4 +1,4 @@
-# 6 — Ortholinear keyboards 
+# Ortholinear keyboards 
 This blog post is the first from a series where I would like to focus on ergonomic mechanical keyboards. In this particular one, I would focus on **ortholinear keyboards**. Together, we will take closer look how this keyboard is built, based on most popular brand, furthermore we put this layout into comparison with standard layout.
 
 ## What are ortholinear keyboards
