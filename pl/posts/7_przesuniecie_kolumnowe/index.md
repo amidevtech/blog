@@ -1,8 +1,7 @@
 # Klawiatury z przesunięciem kolumnowym
 
-Proprzedni post dotyczący klawiatur ortolinearnych pod tytułem [Klawiatury Ortolinearne](https://github.com/amidevtech/blog/blob/main/pl/posts/6_klawiatury_ortolinearne/index.md) opisywał klawiatury, w których nie występuje przesunięcie wierszowe. Układ ten to krok w stronę ergonomii, jako iż jest on bardziej naturalny i zgodny z budową naszych dłoni, jak i ułożeniem palców.  Co to jest _przesunięcie wierszowe_, co było jego przyczyną powstania i dlaczego jest zbędne w nowoczesnych klawiaturach, możesz przeczytać w poście: [Dlaczego Twoja standardowa klawiatura może nie być odpowiednia dla Ciebie](https://github.com/amidevtech/blog/blob/main/pl/posts/5_twoja_klawiatura_nie_jest_odpowiednia_dla_ciebie/index.md).
-
-W tym wpisie chciałbym pójść krok dalej niż klawiatury ortolinearne i zastanowić się jak można taki układ klawiatury uczynić jeszcze bardziej przyjaznym dla naszych dłoni. 
+Proprzedni post dotyczący klawiatur ortolinearnych pod tytułem [Klawiatury Ortolinearne](https://github.com/amidevtech/blog/blob/main/pl/posts/6_klawiatury_ortolinearne/index.md) opisywał klawiatury, w których nie występuje przesunięcie wierszowe. Układ ten to krok w stronę ergonomii, jako iż jest on bardziej naturalny i zgodny z budową naszych dłoni, jak i ułożeniem palców. W tym wpisie chciałbym pójść krok dalej niż klawiatury ortolinearne i zastanowić się jak można taki układ klawiatury uczynić jeszcze bardziej przyjaznym dla naszych dłoni dzięki użyciu klawiatury z przesunięciem kolumnowym.
+Co to jest _przesunięcie wierszowe_, co było jego przyczyną powstania i dlaczego jest zbędne w nowoczesnych klawiaturach, możesz przeczytać w poście: [Dlaczego Twoja standardowa klawiatura może nie być odpowiednia dla Ciebie](https://github.com/amidevtech/blog/blob/main/pl/posts/5_twoja_klawiatura_nie_jest_odpowiednia_dla_ciebie/index.md).
 
 ## Krok dalej
 W pierwszej kolejności chciałbym przywołać opisywany w poprzednim poście szkic przedstawiający nasze dłonie.
