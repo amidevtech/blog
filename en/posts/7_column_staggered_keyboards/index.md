@@ -1,7 +1,8 @@
 # Column staggered keyboards
 
 
-Previous blog post about _ortholinear keyboards_ with title [Ortholinear keyboards](https://github.com/amidevtech/blog/blob/main/en/posts/6_ortholinear_keyboards/index.md) describes keyboards which are not row staggered. This was the first step into ergonomics, as this layout feels more natural for our hands and fingers. What is _row staggered_ keyboard, what was it needing for and why it’s not needed in modern keyboards you can read in blog post with title [Why your standard Qwerty keyboard might not be right for you](https://github.com/amidevtech/blog/blob/main/en/posts/5_your_keyboard_might_not_be_right_for_you/index.md)
+Previous blog post about _ortholinear keyboards_ with title [Ortholinear keyboards](https://github.com/amidevtech/blog/blob/main/en/posts/6_ortholinear_keyboards/index.md) describes keyboards which are not row staggered. This was the first step into ergonomics, as this layout feels more natural for our hands and fingers. This was the first step into ergonomics, as this layout feels more natural for our hands and fingers. With this particular blog post, I would like to go one step further than ortholinear keyboards and try to think about how we can make our layout even better for our hands with **column staggered keyboard**.
+To remaind what is _row staggered_ keyboard, what was it needing for and why it’s not needed in modern keyboards you can read in blog post with title [Why your standard Qwerty keyboard might not be right for you](https://github.com/amidevtech/blog/blob/main/en/posts/5_your_keyboard_might_not_be_right_for_you/index.md)
 
 With this particular blog post, I would like to go one step further than ortholinear keyboards and try to think about how we can make our layout even better for our hands.
 
