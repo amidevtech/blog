@@ -6,7 +6,7 @@ am I dev? - Technology blog
 [About](./en/about.md)
 ### Posts
 
-[9. Mechanical switches — Red, blue, brown](./en/posts/9_mechanical_switches_red_blue_brown/9 – Mechanical switches — Red, blue, brown.md)
+[9. Mechanical switches — Red, blue, brown]("./en/posts/9_mechanical_switches_red_blue_brown/9 – Mechanical switches — Red, blue, brown.md")
 
 [8. Split or not to split – That’s a question](./en/posts/8_split_keyboards/index.md)
 
