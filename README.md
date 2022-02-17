@@ -25,7 +25,7 @@ am I dev? - Technology blog
 [O mnie](./pl/o-mnie.md)
 ### Posty
 
-[9. Mechaniczny przełącznik — Czerwony, niebieski, brązowy.](./pl/posts/9_przelaczniki_mechaniczne/9 - Mechaniczny przełącznik — Czerwony, niebieski, brązowy.md)
+[9. Mechaniczny przełącznik — Czerwony, niebieski, brązowy.](./pl/posts/9_przelaczniki_mechaniczne/index.md)
 
 [8. Dzielona, czy niedzielona — Oto jest pytanie.](./pl/posts/8_klawiatury_dzielone/index.md)
 
