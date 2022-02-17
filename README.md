@@ -1,6 +1,8 @@
 # amidevtech blog 
 am I dev? - Technology blog
 
+Plese checkout blog under [amidev.tech](https://amidev.tech), purpose of this GitHub repository is to have backup op whole blog posts.
+
 
 ## EN
 [About](./en/about.md)
