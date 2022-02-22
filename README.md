@@ -1,10 +1,17 @@
 # amidevtech blog 
 am I dev? - Technology blog
 
+Plese checkout blog under [amidev.tech](https://amidev.tech), purpose of this GitHub repository is to have backup op whole blog posts.
+
 
 ## EN
 [About](./en/about.md)
 ### Posts
+
+[9. Mechanical switches — Red, blue, brown](./en/posts/9_mechanical_switches_red_blue_brown/index.md)
+
+[8. Split or not to split – That’s a question](./en/posts/8_split_keyboards/index.md)
+
 [7. Column staggered keyboards](./en/posts/7_column_staggered_keyboards/index.md)
 
 [6. Ortholinear keyboards](./en/posts/6_ortholinear_keyboards/index.md)
@@ -19,6 +26,11 @@ am I dev? - Technology blog
 ## PL
 [O mnie](./pl/o-mnie.md)
 ### Posty
+
+[9. Mechaniczny przełącznik — Czerwony, niebieski, brązowy.](./pl/posts/9_przelaczniki_mechaniczne/index.md)
+
+[8. Dzielona, czy niedzielona — Oto jest pytanie.](./pl/posts/8_klawiatury_dzielone/index.md)
+
 [7. Klawiatury z przesunięciem kolumnowym](./pl/posts/7_przesuniecie_kolumnowe/index.md)
 
 [6. Klawiatury ortolinearne](./pl/posts/6_klawiatury_ortolinearne/index.md)
